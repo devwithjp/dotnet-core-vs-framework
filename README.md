@@ -5,7 +5,7 @@
 
 
 
-| .NET CORE | .NET FRAMEWORK     | Description                |
-| :-------- | :------- | :------------------------- |
-| `api_key` | `string` | **Required**. Your API key |
+| .NET CORE  | Description            | .NET FRAMEWORK     | Description                |
+| :-------- | :------- | :-------| :------------------------- |
+| `Dependencies` | `string`  | `References` | **Required**. Your API key |
 
